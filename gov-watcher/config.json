@@ -4,7 +4,7 @@
     "name": "DOP Rajasthan",
     "url": "https://dop.rajasthan.gov.in/Content/news.aspx",
     "base_url": "https://dop.rajasthan.gov.in/",
-    "selector": "table#ctl00_ContentPlaceHolder1_grdNews a[href$='.pdf']",
+    "selector": "table#cpMain_grdNews a[href$='.pdf']",
     "strategy": "track_all",
     "topic": "dop_alerts"
   },
