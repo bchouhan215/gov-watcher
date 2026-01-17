@@ -1,0 +1,35 @@
+name: Gov Watcher
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  run-watcher:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required to push changes to history.md/state.json
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Watcher Script
+        run: python watcher.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name 'GovWatcher Bot'
+          git config --global user.email 'bot@noreply.github.com'
+          git add state.json history.md
+          # Only commit if there are changes
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update history and state [skip ci]" && git push)

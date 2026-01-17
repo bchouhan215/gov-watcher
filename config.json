@@ -1,0 +1,20 @@
+[
+  {
+    "id": "dop",
+    "name": "DOP Rajasthan",
+    "url": "https://dop.rajasthan.gov.in/Content/news.aspx",
+    "base_url": "https://dop.rajasthan.gov.in/",
+    "selector": "table#ctl00_ContentPlaceHolder1_grdNews a[href$='.pdf']",
+    "strategy": "track_all",
+    "topic": "dop_alerts"
+  },
+  {
+    "id": "rajkaj",
+    "name": "RajKaj",
+    "url": "https://rajkaj.rajasthan.gov.in/",
+    "base_url": "https://rajkaj.rajasthan.gov.in",
+    "selector": "ul#notification li a",
+    "strategy": "track_latest",
+    "topic": "rajkaj_orders"
+  }
+]
