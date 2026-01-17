@@ -21,15 +21,15 @@ jobs:
           python-version: '3.10'
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install -r gov-watcher/requirements.txt
 
       - name: Run Watcher Script
-        run: python watcher.py
+        run: cd gov-watcher && python watcher.py
 
       - name: Commit and Push changes
         run: |
           git config --global user.name 'GovWatcher Bot'
           git config --global user.email 'bot@noreply.github.com'
-          git add state.json history.md
+          git add gov-watcher/state.json gov-watcher/history.md
           # Only commit if there are changes
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update history and state [skip ci]" && git push)
