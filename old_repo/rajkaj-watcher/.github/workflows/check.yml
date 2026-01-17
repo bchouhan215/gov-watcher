@@ -1,0 +1,55 @@
+name: RajKaj Order Watcher
+
+on:
+  schedule:
+    - cron: "*/15 * * * *" # Every 15 minutes
+  workflow_dispatch:
+
+# 1. SAFETY: Prevent multiple runs from overlapping and corrupting the state file
+concurrency:
+  group: rajkaj-watcher
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    # 2. SAFETY: Kill the job if it hangs (e.g., website down) so you don't waste minutes
+    timeout-minutes: 5 
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: 'pip' # Now this will work because it finds requirements.txt
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+
+      - name: Run checker
+        run: python check.py
+
+      - name: Commit and Push
+        run: |
+          # Check for changes
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "rajkaj-bot"
+            git config user.email "rajkaj-bot@users.noreply.github.com"
+            
+            git add state.json rajkaj-orders.md
+            git commit -m "New RajKaj order detected"
+            
+            # 4. ROBUSTNESS: Pull before push to prevent failures if you edited the repo manually
+            git pull --rebase origin main
+            git push
+          else
+            echo "No changes found. Skipping commit."
+          fi
