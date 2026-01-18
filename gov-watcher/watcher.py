@@ -3,6 +3,7 @@ import logging
 import subprocess
 import time
 import tempfile
+import requests
 from pathlib import Path
 from datetime import datetime
 from urllib.parse import urljoin
@@ -67,8 +68,6 @@ def fetch_html(url):
 
     # Fallback to requests
     try:
-        import requests
-
         response = requests.get(
             url,
             headers={"User-Agent": "Mozilla/5.0"},
@@ -84,8 +83,6 @@ def fetch_html(url):
 def notify(topic, title, link):
     """Sends a notification to ntfy.sh"""
     try:
-        import requests
-
         response = requests.post(
             f"https://ntfy.sh/{topic}",
             data=f"{title}\n{link}".encode("utf-8"),
@@ -199,23 +196,31 @@ def run_watcher():
         # --- DIFFERENCING STRATEGY ---
         
         site_state = state.get(site_id, {"seen_urls": []})
-        seen_urls = set(site_state.get("seen_urls", []))
+        
+        # Ensure seen_urls is a list for ordering
+        seen_urls_list = site_state.get("seen_urls", [])
+        if not isinstance(seen_urls_list, list):
+            seen_urls_list = list(seen_urls_list) if hasattr(seen_urls_list, '__iter__') else []
+
+        seen_urls_set = set(seen_urls_list)
         new_items = []
 
         if strategy == "track_all":
             # Check every item on the page against history
             for title, link in current_items:
-                if link not in seen_urls:
+                if link not in seen_urls_set:
                     new_items.append((title, link))
-                    seen_urls.add(link)  # Add to set immediately to avoid dupes in this run
+                    seen_urls_list.append(link)
+                    seen_urls_set.add(link)
 
             # Limit unbounded growth: keep only recent URLs (max 1000)
-            if len(seen_urls) > 1000:
+            if len(seen_urls_list) > 1000:
                 logging.warning(f"{site_id} seen_urls exceeds 1000, pruning oldest entries")
-                seen_urls = set(list(seen_urls)[-1000:])
+                seen_urls_list = seen_urls_list[-1000:]
+                seen_urls_set = set(seen_urls_list)
 
-            # Update state list (convert set back to list)
-            site_state["seen_urls"] = list(seen_urls)
+            # Update state list
+            site_state["seen_urls"] = seen_urls_list
 
         elif strategy == "track_latest":
             # Only check if the *top* item is different from last time
