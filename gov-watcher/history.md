@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-01-20 12:29
+- [Time schedule of Medical Examination of probable candidates selected in Rajasthan State and Subordinate Service Examination, 2023 at SMS Medical College (Board-I), Jaipur (Second Chance is being given to candidates who were not appeared for Medical Exam)](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202601200535165580403VigyapatiforMedical-Jaipur(Board-I)-2ndchanceforabsenteeofmedicaldated15-16).pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-01-17 20:10
 - [Application invited for All India Civil Services Kabaddi Tournament 2025-26](https://dop.rajasthan.gov.in/writereaddata/News/202601170624422592796KabaddiLetter.pdf)
 - [Application invited for All India Civil Services Hockey Tournament 2025-26](https://dop.rajasthan.gov.in/writereaddata/News/202601170624075239149HockyLetter.pdf)
