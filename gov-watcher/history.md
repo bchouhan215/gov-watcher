@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-01-27 12:29
+- [Regarding sending updated information in case of change in home district](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202601270530470610133scan_scan_20260127182403.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-01-20 12:29
 - [Time schedule of Medical Examination of probable candidates selected in Rajasthan State and Subordinate Service Examination, 2023 at SMS Medical College (Board-I), Jaipur (Second Chance is being given to candidates who were not appeared for Medical Exam)](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202601200535165580403VigyapatiforMedical-Jaipur(Board-I)-2ndchanceforabsenteeofmedicaldated15-16).pdf>)
 
