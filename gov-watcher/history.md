@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-01-30 07:35
+- [Amendments in Rajasthan Public Service Commission (Gazetted Staff) Service Rules and Regulations, 1991](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202601301243069412713Document_en_260130_132321.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-01-27 12:29
 - [Regarding sending updated information in case of change in home district](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202601270530470610133scan_scan_20260127182403.pdf>)
 
