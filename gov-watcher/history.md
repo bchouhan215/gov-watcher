@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-02-01 08:21
+- [Time schedule of Medical Examination of probable candidates selected in Rajasthan State and Subordinate Service Examination, 2023 (Last Chance)](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202602010133431576907Vigyaptiformedical-JAIPUR-I(FinalChanceforallabsentees.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-02-01 06:28
 - [Additional charge order of the post of Collector and District Magistrate, Nagaur dated 01-01-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202602011148272716170AdditionalchargeorderofthepostofCollector,Nagaur.pdf>)
 
