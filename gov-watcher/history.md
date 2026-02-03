@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-02-03 13:48
+- [Additional Charge order of RAS Officers dated 03-02-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202602030715302364592AdditionalchargeorderofRASdated03-02-2026.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-02-01 13:25
 - [Additional charge order of the post of Chairperson, Rajasthan River Basin and Water Resources Planning Authority, Jaipur dated 01-02-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202602010630181128082AdditionalchargeorderofIASdated01-02-2026.pdf>)
 
