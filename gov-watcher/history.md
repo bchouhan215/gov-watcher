@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-02-04 13:07
+- [Additional charge order of the post of Chairman, Rajasthan State Road Transport Corporation, Jaipur dated 03-02-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202602040520243038886rajkaj_1770202500120.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-02-03 13:48
 - [Additional Charge order of RAS Officers dated 03-02-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202602030715302364592AdditionalchargeorderofRASdated03-02-2026.pdf>)
 
