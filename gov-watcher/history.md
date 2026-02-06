@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-02-06 13:08
+- [Rajasthan Revenue Accounts (State and Subordinate) Service Rules, 2026](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202602060601381414704img20260206_18000499.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-02-04 13:07
 - [Additional charge order of the post of Chairman, Rajasthan State Road Transport Corporation, Jaipur dated 03-02-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202602040520243038886rajkaj_1770202500120.pdf>)
 
