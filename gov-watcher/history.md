@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-02-08 06:38
+- [Time schedule of Medical Examination of probable candidates selected in Rajasthan State and Subordinate Service Examination, 2023 at SMS Medical College (Board-II), Jaipur (List of Candidates Referred by RUHS to SMS Hospital for Medical Examination)](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202602081142195295316VigyaptiforMedical-JAIPUR-I(ReferbyRUHS).pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-02-06 13:08
 - [Rajasthan Revenue Accounts (State and Subordinate) Service Rules, 2026](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202602060601381414704img20260206_18000499.pdf>)
 
