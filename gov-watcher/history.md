@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-02-09 05:44
+- [Application Invited for All India Civil Services Weightlifting and Powerlifting Tournament 2025-26](<https://dop.rajasthan.gov.in/writereaddata/News/202602091016561389701weightlifting-powerlifting.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-02-08 06:38
 - [Time schedule of Medical Examination of probable candidates selected in Rajasthan State and Subordinate Service Examination, 2023 at SMS Medical College (Board-II), Jaipur (List of Candidates Referred by RUHS to SMS Hospital for Medical Examination)](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202602081142195295316VigyaptiforMedical-JAIPUR-I(ReferbyRUHS).pdf>)
 
