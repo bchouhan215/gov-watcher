@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-02-13 05:20
+- [Application invited for All India Civil Services Wrestling (Men and Women) Tournament 2025-26](<https://dop.rajasthan.gov.in/writereaddata/News/202602131023456287648wrestlingdisanirdesh.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-02-09 05:44
 - [Application Invited for All India Civil Services Weightlifting and Powerlifting Tournament 2025-26](<https://dop.rajasthan.gov.in/writereaddata/News/202602091016561389701weightlifting-powerlifting.pdf>)
 
