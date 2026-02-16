@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-02-16 05:48
+- [Application Invited for All India Civil Services Kho - Kho Tournament 2025-26](<https://dop.rajasthan.gov.in/writereaddata/News/202602161009098430454sig-FareLetter_1770995425103.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-02-13 05:20
 - [Application invited for All India Civil Services Wrestling (Men and Women) Tournament 2025-26](<https://dop.rajasthan.gov.in/writereaddata/News/202602131023456287648wrestlingdisanirdesh.pdf>)
 
