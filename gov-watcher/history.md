@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-02-17 11:05
+- [Amendments in Rajasthan Civil Services (conduct) Rules 1971](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202602170336227303550img20260217_15290762.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-02-17 10:04
 - [Amendments in Rajasthan Civil Services (Special Selection and Special Conditions of Service for Appointment of Persons in the Special Security Wing of State Special Branch Rajasthan) Rules, 2012](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202602170301469623874img20260217_14515384.pdf>)
 
