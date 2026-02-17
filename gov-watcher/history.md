@@ -1,3 +1,9 @@
+### DOP Rajasthan - 2026-02-17 13:51
+- [Time schedule of Medical Examination of probable candidates selected in Rajasthan State and Subordinate Service Examination, 2023 at Rajasthan University of Health Sciences (R.U.H.S.), Jaipur (Second Chance)](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202602170636536502558VigyapatiforMedical-Jaipur(RUHS)2ndchanceforRJEunfitcandi.pdf>)
+- [Time schedule of Medical Examination of probable candidates selected in Rajasthan State and Subordinate Service Examination, 2023 at SMS Medical College, Jaipur (Second Chance)](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202602170634409703924VigyapatiforMedical-Jaipur(SMS)-2ndchanceforRJEunfitcandidate.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-02-17 11:05
 - [Amendments in Rajasthan Civil Services (conduct) Rules 1971](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202602170336227303550img20260217_15290762.pdf>)
 
