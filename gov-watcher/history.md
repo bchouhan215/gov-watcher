@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-02-17 10:04
+- [Amendments in Rajasthan Civil Services (Special Selection and Special Conditions of Service for Appointment of Persons in the Special Security Wing of State Special Branch Rajasthan) Rules, 2012](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202602170301469623874img20260217_14515384.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-02-16 14:59
 - [Time schedule of Medical Examination of probable candidates selected in Rajasthan State and Subordinate Service Examination, 2023 at SMS Medical College (Board-I), Jaipur (Second Chance is being given to candidates who were not completed their Medical Exam in First Chance)](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202602160823145829480VigyapatiforMedical-Jaipur(Board-I)-2ndchance(IncompleteMedicalReport)_1771247777187.pdf>)
 
