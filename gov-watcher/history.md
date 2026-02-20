@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-02-20 06:34
+- [Time schedule of Medical Examination of probable candidates selected in Rajasthan State and Subordinate Service Examination, 2023 at SMS Medical College, Jaipur](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202602201114105914285VigyapatiforReMedical-SMS,Jaipur(ShailendraKumar,CancerPatient).pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-02-20 05:34
 - [Time schedule of Medical Examination of probable candidates selected in Rajasthan State and Subordinate Service Examination, 2023 (Last Chance)](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202602201054423620506VigyapatiforMedical-Jaipur-FINALCHANCE.pdf>)
 
