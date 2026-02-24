@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-02-24 06:33
+- [Time schedule of Medical Examination of probable candidates selected in Rajasthan State and Subordinate Service Examination, 2023 at SMS Medical College, Jaipur](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202602241101594467662VigyapatiforReMedical-SMS,Jaipur(MulaRamSoni,M-1169)_1771860537915.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-02-23 17:37
 - [Transfer/posting order of IPS officers dated 23-02-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202602231104228064998IPSorderdated23-02-2026.pdf>)
 
