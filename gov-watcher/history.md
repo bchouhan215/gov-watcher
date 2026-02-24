@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-02-24 11:05
+- [Submission of application for Chief Minister Awards for Excellence in Public Service for the year 2026 dated 18-02-2026](<https://dop.rajasthan.gov.in/writereaddata/News/202602240349425261730cmawardletterdeptsDMs.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-02-24 06:33
 - [Time schedule of Medical Examination of probable candidates selected in Rajasthan State and Subordinate Service Examination, 2023 at SMS Medical College, Jaipur](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202602241101594467662VigyapatiforReMedical-SMS,Jaipur(MulaRamSoni,M-1169)_1771860537915.pdf>)
 
