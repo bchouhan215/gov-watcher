@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-03-02 03:43
+- [Additional charge order of the post of Divisional Commissioner, Jodhpur dated 02-03-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202603020900595872614sig-rajkaj_1772421853189.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-02-27 14:25
 - [Time schedule of Medical Examination of probable candidates selected in Rajasthan State and Subordinate Service Examination, 2023 at SMS Medical College, Jaipur](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202602270713587281717VigyapatiforMedical-Jaipur-board-1(NewMedicalofM1948).pdf>)
 
