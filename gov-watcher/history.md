@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-03-04 11:59
+- [Application Invited for All India Civil Services Volleyball Tournament 2025-26](<https://dop.rajasthan.gov.in/writereaddata/News/202603040520264267254sig-FairLetter_1772622067143.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-03-04 11:44
 - [Application Invited for All India Civil Services Volleyball Tournament 2025-26](<https://dop.rajasthan.gov.in/writereaddata/News/202603040512077754435sig-FairLetter_1772622067143.pdf>)
 
