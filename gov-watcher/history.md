@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-03-04 11:44
+- [Application Invited for All India Civil Services Volleyball Tournament 2025-26](<https://dop.rajasthan.gov.in/writereaddata/News/202603040512077754435sig-FairLetter_1772622067143.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-03-02 03:43
 - [Additional charge order of the post of Divisional Commissioner, Jodhpur dated 02-03-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202603020900595872614sig-rajkaj_1772421853189.pdf>)
 
