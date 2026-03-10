@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-03-10 14:40
+- [Duty order of IAS officers dated 10-03-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202603100726045295665OrderofDeliveryWarRoom.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-03-06 15:52
 - [Time schedule of Medical Examination of probable candidates selected in Rajasthan State and Subordinate Service Examination, 2023 at SMS Medical College, Jaipur](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202603060905477035060VigyapatiforMedical-Jaipur(ReMedicalof2TemporaryUnfitcandidates)_1772806252063.pdf>)
 
