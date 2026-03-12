@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-03-12 16:40
+- [Urgent directions regarding leaves of State Government employees dated 12-03-2026](<https://dop.rajasthan.gov.in/writereaddata/News/202603120948056664436OrderofcancellationofLeaveandtrainingdated12-03-2026.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-03-10 14:40
 - [Duty order of IAS officers dated 10-03-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202603100726045295665OrderofDeliveryWarRoom.pdf>)
 
