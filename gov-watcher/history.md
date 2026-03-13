@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-03-13 18:34
+- [Transfer/posting order of IPS officers dated 13-03-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202603131154473420587IPSorderdated13-03-2026.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-03-12 16:40
 - [Urgent directions regarding leaves of State Government employees dated 12-03-2026](<https://dop.rajasthan.gov.in/writereaddata/News/202603120948056664436OrderofcancellationofLeaveandtrainingdated12-03-2026.pdf>)
 
