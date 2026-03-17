@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-03-17 17:39
+- [Transfer/posting order of one RAS officer dated 17-03-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202603171029194681811RASorderdated17-03-2026.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-03-14 07:04
 - [Central deputation order of Shri Jai Yadav, IPS dated 14-03-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202603141135478251920IPS_CentralDeputation.pdf>)
 
