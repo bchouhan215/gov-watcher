@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-03-18 15:50
+- [Additional Charge order of IAS officers dated 18-03-2026 (Election Period)](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202603180914181066474AdditionalChargeorder18-03-26.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-03-17 17:39
 - [Transfer/posting order of one RAS officer dated 17-03-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202603171029194681811RASorderdated17-03-2026.pdf>)
 
