@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-03-19 11:21
+- [Appointment order of 66 Rajasthan Administrative Service officers dated 19-03-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202603190421536342055RASallotmentorder.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-03-19 10:31
 - [Appointment order of 66 Rajasthan Administrative Service officers dated 19-03-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202603190331181082986RASAllotment.pdf>)
 
