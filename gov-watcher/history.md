@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-03-25 07:38
+- [Nominations are invited for Padma Awards - 2027](<https://dop.rajasthan.gov.in/writereaddata/News/202603251244512126018CircularregardingPadmaawards-2027.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-03-19 16:38
 - [Transfer/posting order of IPS officers dated 19-03-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202603190951530707385IPSORDERDATED19-03-26.pdf>)
 - [Transfer/posting order of IAS officers dated 19-03-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202603190948406422244IASorderdated19-03-26.pdf>)
