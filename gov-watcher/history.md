@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-03-26 11:10
+- [Duty order of IAS officers dated 26-03-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202603260413458574477DutyorderofIASdated26-03-2026.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-03-25 07:38
 - [Nominations are invited for Padma Awards - 2027](<https://dop.rajasthan.gov.in/writereaddata/News/202603251244512126018CircularregardingPadmaawards-2027.pdf>)
 
