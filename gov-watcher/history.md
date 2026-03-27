@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-03-27 07:58
+- [Appointment order of Member (Judicial), Rajasthan Civil Services Appellate Tribunal, Jodhpur](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202603270116329385498member-RCSAT.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-03-27 04:09
 - [Duty order of IAS officers dated 26-03-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202603270700263542676DutyorderofIASdated26-03-2026.pdf>)
 
