@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-03-28 11:39
+- [Awaiting posting order of one RAS officer dated 28-03-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202603280503392244639AwaitingpostingorderofoneRASofficerdated28-03-2026.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-03-27 07:58
 - [Appointment order of Member (Judicial), Rajasthan Civil Services Appellate Tribunal, Jodhpur](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202603270116329385498member-RCSAT.pdf>)
 
