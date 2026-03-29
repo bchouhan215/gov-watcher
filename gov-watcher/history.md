@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-03-29 09:20
+- [Awaiting posting order of one RAS officer dated 29-03-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202603290236088667642APOorderofRASdated29-03-2026.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-03-28 11:39
 - [Awaiting posting order of one RAS officer dated 28-03-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202603280503392244639AwaitingpostingorderofoneRASofficerdated28-03-2026.pdf>)
 
