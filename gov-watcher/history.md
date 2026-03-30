@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-03-30 06:13
+- [Central Deputation order of Smt. Neha Giri, IAS dated 28-03-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202603301045200050536centraldeputationorder.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-03-29 09:20
 - [Awaiting posting order of one RAS officer dated 29-03-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202603290236088667642APOorderofRASdated29-03-2026.pdf>)
 
