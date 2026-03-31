@@ -1,3 +1,9 @@
+### DOP Rajasthan - 2026-03-31 21:53
+- [Transfer/posting order of IAS officers dated 31-03-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202604010303050056546IASorderdated31-03-2026.pdf>)
+- [Additional Charge order of RAS Officers dated 31-03-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202604010320130872211AdditionalchargeorderofRASdated31-03-2026.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-03-31 14:12
 - [Circular regarding filling up PAR online on Raj-Kaj software for All State Government Officers/Employees](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202603310645208522429PAR2026.pdf>)
 
