@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-03-31 14:12
+- [Circular regarding filling up PAR online on Raj-Kaj software for All State Government Officers/Employees](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202603310645208522429PAR2026.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-03-30 14:23
 - [Awaiting posting order of one RAS officer dated 30-03-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202603300703013007709APOorderofRASdated30-03-2026.pdf>)
 
