@@ -1,3 +1,12 @@
+### DOP Rajasthan - 2026-04-02 07:01
+- [Final Seniority List of Higher Supertime Scale of RAS as on 01-04-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202604021134240187836hstlist.pdf>)
+- [Final Seniority List of Supertime Scale of RAS as on 01-04-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202604021133541425960supertimelist.pdf>)
+- [Final Seniority List of Selection Scale of RAS as on 01-04-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202604021133229538096selectionlist.pdf>)
+- [Final Seniority List of Senior Scale of RAS as on 01-04-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202604021132357331577seniorlist.pdf>)
+- [Final Seniority List of Junior Scale of RAS as on 01-04-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202604021131408090372juniorlist.pdf>)
+
+---
+
 ### RajKaj - 2026-04-01 06:54
 - [Circular regarding filling up PAR online on Raj-Kaj software for All State Government Officers/Employees](<https://rajkaj.rajasthan.gov.in/uploads/rajkaj_1774960937888_1775025277.pdf>)
 
