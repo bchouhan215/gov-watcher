@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-04-06 07:01
+- [Awaiting Posting Order of one IPS officer dated 06-04-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202604061159387742861APOorderofIPSofficerdated06-04-2026.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-04-02 07:01
 - [Final Seniority List of Higher Supertime Scale of RAS as on 01-04-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202604021134240187836hstlist.pdf>)
 - [Final Seniority List of Supertime Scale of RAS as on 01-04-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202604021133541425960supertimelist.pdf>)
