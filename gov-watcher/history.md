@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-04-07 11:54
+- [Regarding completion of mandatory courses on iGOT Karmayogi portal for all RAS officers](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202604071113174400916order-igot-06-04-2026.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-04-06 07:01
 - [Awaiting Posting Order of one IPS officer dated 06-04-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202604061159387742861APOorderofIPSofficerdated06-04-2026.pdf>)
 
