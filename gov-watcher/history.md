@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-04-08 06:49
+- [Regarding completion of mandatory courses on iGOT Karmayogi portal for all RAS officers](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202604081151177095501order-igot-06-04-2026.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-04-07 11:54
 - [Regarding completion of mandatory courses on iGOT Karmayogi portal for all RAS officers](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202604071113174400916order-igot-06-04-2026.pdf>)
 
