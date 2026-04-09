@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-04-09 11:29
+- [Application Invited from RAS officers for appointment on the post of Deputy Director (Revenue), Anti Corruption Bureau, Jaipur](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202604090450584497102LetterforinvitationregDDACB_1775721840919.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-04-08 06:49
 - [Regarding completion of mandatory courses on iGOT Karmayogi portal for all RAS officers](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202604081151177095501order-igot-06-04-2026.pdf>)
 
