@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-04-10 06:14
+- [Additional Charge order of the post of Chairperson, Rajasthan State Pollution Control Board, Jaipur](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202604101019016898897Order_Addl_Charge_Chariman_RSPCB_177579499.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-04-09 11:29
 - [Application Invited from RAS officers for appointment on the post of Deputy Director (Revenue), Anti Corruption Bureau, Jaipur](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202604090450584497102LetterforinvitationregDDACB_1775721840919.pdf>)
 
