@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-04-18 12:39
+- [Suspension order of Ms. Kajal Meena, RAS dated 18-04-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202604180552530697688SuspensionOrder.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-04-10 06:14
 - [Additional Charge order of the post of Chairperson, Rajasthan State Pollution Control Board, Jaipur](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202604101019016898897Order_Addl_Charge_Chariman_RSPCB_177579499.pdf>)
 
