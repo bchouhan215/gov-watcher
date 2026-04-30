@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-04-30 11:17
+- [Sport Events Calendar for Year 2026-27](<https://dop.rajasthan.gov.in/writereaddata/News/202604300307240936055annuallsportscalendar.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-04-27 13:07
 - [Central deputation order of Shri Adarsh Sidhu, IPS dated 27-04-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202604270544346569941CentralDeputation24-04-2026.pdf>)
 
