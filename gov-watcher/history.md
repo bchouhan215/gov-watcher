@@ -1,3 +1,8 @@
+### RajKaj - 2026-05-01 10:50
+- [Circular regarding extension of filling up PAR online on Raj-Kaj software for the year 2025-26 in respect of All State Government Officers/Employees](<https://rajkaj.rajasthan.gov.in/uploads/acr_year_2025_26_date_extension_1777629079.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-05-01 07:35
 - [Circular regarding extension of filling up PAR online on Raj-Kaj software for the year 2025-26 in respect of All State Government Officers/Employees](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202605011122224235852ACRYear2025-26DateExtension.pdf>)
 
