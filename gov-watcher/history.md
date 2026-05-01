@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-05-01 07:35
+- [Circular regarding extension of filling up PAR online on Raj-Kaj software for the year 2025-26 in respect of All State Government Officers/Employees](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202605011122224235852ACRYear2025-26DateExtension.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-04-30 11:17
 - [Sport Events Calendar for Year 2026-27](<https://dop.rajasthan.gov.in/writereaddata/News/202604300307240936055annuallsportscalendar.pdf>)
 
