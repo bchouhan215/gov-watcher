@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-05-01 13:01
+- [Extension of timelines for recording of PAR for the year 2025-2026 in respect of AIS officers by the reporting/ reviewing/ accepting authorities](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202605010525477180380sig-extensiontimelinesforPAR_1777632911445.pdf>)
+
+---
+
 ### RajKaj - 2026-05-01 10:50
 - [Circular regarding extension of filling up PAR online on Raj-Kaj software for the year 2025-26 in respect of All State Government Officers/Employees](<https://rajkaj.rajasthan.gov.in/uploads/acr_year_2025_26_date_extension_1777629079.pdf>)
 
