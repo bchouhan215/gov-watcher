@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-05-02 15:59
+- [Awaiting Posting Order of one IPS officer dated 02-05-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202605020913228842112APOorderofoneIPSofficerdated02-05-26-.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-05-01 13:01
 - [Extension of timelines for recording of PAR for the year 2025-2026 in respect of AIS officers by the reporting/ reviewing/ accepting authorities](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202605010525477180380sig-extensiontimelinesforPAR_1777632911445.pdf>)
 
