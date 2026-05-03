@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-05-03 08:23
+- [Awaiting Posting Order of one IAS officer dated 03-05-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202605031247022813934APOorderofoneIASofficerdated03-05-2026.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-05-02 15:59
 - [Awaiting Posting Order of one IPS officer dated 02-05-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202605020913228842112APOorderofoneIPSofficerdated02-05-26-.pdf>)
 
