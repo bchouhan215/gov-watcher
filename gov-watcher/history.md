@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-05-13 08:09
+- [Application Invited from RAS officers for appointment on the post of Deputy Director (Revenue), Anti Corruption Bureau, Jaipur](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202605121141400099916LetterforinvitationregDDACBReminder2026_1778547180412.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-05-03 08:23
 - [Awaiting Posting Order of one IAS officer dated 03-05-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202605031247022813934APOorderofoneIASofficerdated03-05-2026.pdf>)
 
