@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-05-13 17:37
+- [Transfer/posting order of RAS officers dated 13-05-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202605130957224821041RASorderdated13-05-2026.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-05-13 08:09
 - [Application Invited from RAS officers for appointment on the post of Deputy Director (Revenue), Anti Corruption Bureau, Jaipur](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202605121141400099916LetterforinvitationregDDACBReminder2026_1778547180412.pdf>)
 
