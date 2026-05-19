@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-05-19 19:48
+- [Transfer/posting order of IPS officers dated 19-05-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202605201209331213357IPSorderdated19-05-2026.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-05-15 06:03
 - [Central deputation order of Shri Digant Anand, IPS dated 14-05-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202605151043163449309deputationorderIPS14-05-2026.pdf>)
 
