@@ -1,3 +1,11 @@
+### DOP Rajasthan - 2026-05-21 08:56
+- [Regarding 3rd Rajasthan State Inter district Civil Service Kabaddi (Male) Tournament 2026-27](<https://dop.rajasthan.gov.in/writereaddata/News/202605211158348832061DishanirdeshKabaddi.pdf>)
+- [Regarding 7th Rajasthan State Inter District Civil Service Tennis Tournament, 9th Rajasthan State Inter District Civil Service Badminton Tournament and 5th Rajasthan State Inter district Civil Service Table Tennis Tournament 2026-27](<https://dop.rajasthan.gov.in/writereaddata/News/202605211157233025567DishanirdeshBedmintonTTandTennis.pdf>)
+- [Regarding 10th Rajasthan State Inter District Civil Service Volleyball (Male) Tournament, 2026-27](<https://dop.rajasthan.gov.in/writereaddata/News/202605211155058292103DishanirdeshVolleyball.pdf>)
+- [Regarding 11th Rajasthan State Inter District Civil Service Basketball (Male) Tournament, 2026-27](<https://dop.rajasthan.gov.in/writereaddata/News/202605211153516390389DishanirdeshBasketball.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-05-19 19:48
 - [Transfer/posting order of IPS officers dated 19-05-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202605201209331213357IPSorderdated19-05-2026.pdf>)
 
