@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-05-21 15:49
+- [Order of Secretary, Law and Jt. L.R., Law Department, Rajasthan, Jaipur dated 21-05-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202605210740002377537Lawsecretaryorder21-05-2026.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-05-21 08:56
 - [Regarding 3rd Rajasthan State Inter district Civil Service Kabaddi (Male) Tournament 2026-27](<https://dop.rajasthan.gov.in/writereaddata/News/202605211158348832061DishanirdeshKabaddi.pdf>)
 - [Regarding 7th Rajasthan State Inter District Civil Service Tennis Tournament, 9th Rajasthan State Inter District Civil Service Badminton Tournament and 5th Rajasthan State Inter district Civil Service Table Tennis Tournament 2026-27](<https://dop.rajasthan.gov.in/writereaddata/News/202605211157233025567DishanirdeshBedmintonTTandTennis.pdf>)
