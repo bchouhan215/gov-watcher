@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-05-22 09:59
+- [Notification of the All India Services (Implementation of National Pension System) Rules, 2026](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202605221242236797404sig-AISNPSRules2026_1779376368305-.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-05-22 06:33
 - [Central Deputation order of Shri Deshmukh Paris Anil, IPS dated 21-05-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202605221144533479275CentralDeputation22-05-2026.pdf>)
 - [Regarding 13th Rajasthan State Inter Divisional Civil Service Tournament 2026-27](<https://dop.rajasthan.gov.in/writereaddata/News/202605221035138971328sig-DishaNirdesh.pdf>)
