@@ -1,3 +1,9 @@
+### DOP Rajasthan - 2026-05-22 06:33
+- [Central Deputation order of Shri Deshmukh Paris Anil, IPS dated 21-05-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202605221144533479275CentralDeputation22-05-2026.pdf>)
+- [Regarding 13th Rajasthan State Inter Divisional Civil Service Tournament 2026-27](<https://dop.rajasthan.gov.in/writereaddata/News/202605221035138971328sig-DishaNirdesh.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-05-21 15:49
 - [Order of Secretary, Law and Jt. L.R., Law Department, Rajasthan, Jaipur dated 21-05-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202605210740002377537Lawsecretaryorder21-05-2026.pdf>)
 
