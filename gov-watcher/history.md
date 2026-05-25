@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-05-25 15:33
+- [Awaiting Posting Order of one RAS officer dated 25-05-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202605250625147191921APOorderofRASdated25-05-2026.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-05-22 09:59
 - [Notification of the All India Services (Implementation of National Pension System) Rules, 2026](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202605221242236797404sig-AISNPSRules2026_1779376368305-.pdf>)
 
