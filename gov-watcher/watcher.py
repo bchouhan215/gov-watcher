@@ -1,3 +1,4 @@
+# this is the main watcher script. It loads config, checks each site, diffs against state, updates history, and sends notifications.
 import json
 import logging
 import subprocess
