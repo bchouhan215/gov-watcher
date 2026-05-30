@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-05-30 15:34
+- [Transfer/posting order of IPS officers dated 30-05-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202605300841157722924IPSorderdated30-05-2026.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-05-29 13:47
 - [Transfer/posting order of one IPS officer dated 29-05-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202605290602500427807IPSorderdated29-05-2026.pdf>)
 
