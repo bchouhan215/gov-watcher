@@ -1,3 +1,8 @@
+### RajKaj - 2026-06-01 15:32
+- [Circular regarding filling up pending PARs of previous years online on Raj-Kaj software for All State Government Officers/Employees](<https://rajkaj.rajasthan.gov.in/uploads/202606010200183775613acrcirculardated01_06_2026_1780308936.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-06-01 09:04
 - [Circular regarding filling up pending PARs of previous years online on Raj-Kaj software for All State Government Officers/Employees dated 06-01-2026](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202606010200183775613ACRCirculardated01-06-2026.pdf>)
 
