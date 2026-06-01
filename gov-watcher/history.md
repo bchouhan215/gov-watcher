@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-06-01 09:04
+- [Circular regarding filling up pending PARs of previous years online on Raj-Kaj software for All State Government Officers/Employees dated 06-01-2026](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202606010200183775613ACRCirculardated01-06-2026.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-05-30 15:34
 - [Transfer/posting order of IPS officers dated 30-05-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202605300841157722924IPSorderdated30-05-2026.pdf>)
 
