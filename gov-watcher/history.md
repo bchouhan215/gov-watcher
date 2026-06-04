@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-06-04 06:54
+- [Selection of a candidate from waiting list in case of resignation/ death/ dismissal](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202606041202172373781img20260604_11560425.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-06-03 10:04
 - [Directions for Relieving/Joining to RAS officers dated 03-06-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202606030149102076242DirectionsforRelievingJoiningtoRASofficersdated03-06-2026.pdf>)
 - [Circular regarding filling up pending PARs of previous years online on Raj-Kaj software for All State Government Officers/Employees dated 01-06-2026](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202606031109290868621202606010200183775613ACRCirculardated01-06-2026.pdf>)
