@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-06-08 16:16
+- [Transfer/posting order of IPS officers dated 08-06-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202606080800235048282IPSorderdated08-06-2026.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-06-04 06:54
 - [Selection of a candidate from waiting list in case of resignation/ death/ dismissal](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202606041202172373781img20260604_11560425.pdf>)
 
