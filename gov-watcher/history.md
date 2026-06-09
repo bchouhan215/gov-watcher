@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-06-09 13:21
+- [Awaiting Posting Order of one RAS officer dated 09-06-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202606090601243524316APOorderofRASdated09-06-2026.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-06-08 16:16
 - [Transfer/posting order of IPS officers dated 08-06-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202606080800235048282IPSorderdated08-06-2026.pdf>)
 
