@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-06-10 13:59
+- [Circular regarding maintenance of Roster Register](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202606100432381550095circular-09-06-2026.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-06-09 13:21
 - [Awaiting Posting Order of one RAS officer dated 09-06-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202606090601243524316APOorderofRASdated09-06-2026.pdf>)
 
