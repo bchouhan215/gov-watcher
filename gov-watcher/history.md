@@ -1,3 +1,11 @@
+### DOP Rajasthan - 2026-06-19 19:25
+- [Transfer/posting order of RAS officers dated 19-06-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202606191138541708896OrderofRASdated19-06-2026.pdf>)
+- [Appointment order of Members, Rajasthan Public Service Commission, Ajmer dated 19-06-2026 -II](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202606201207191296779MemberRPSC-II.pdf>)
+- [Appointment order of Members, Rajasthan Public Service Commission, Ajmer dated 19-06-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202606201206436902931MemberRPSC-I.pdf>)
+- [Additional Charge order of the post of Chairman, Rajasthan Public Service Commission, Ajmer dated 19-06-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202606201206042350444AdditionalChargeChairmanRPSC.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-06-10 13:59
 - [Circular regarding maintenance of Roster Register](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202606100432381550095circular-09-06-2026.pdf>)
 
