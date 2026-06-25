@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-06-25 12:13
+- [Transfer/posting order of IAS officers dated 25-06-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202606250449318004639IASorderdated25-06-2026.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-06-19 19:25
 - [Transfer/posting order of RAS officers dated 19-06-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202606191138541708896OrderofRASdated19-06-2026.pdf>)
 - [Appointment order of Members, Rajasthan Public Service Commission, Ajmer dated 19-06-2026 -II](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202606201207191296779MemberRPSC-II.pdf>)
