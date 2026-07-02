@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-07-02 16:25
+- [Appointment order of Fourth Class Employee recruitment, 2024 in Government Secretariat dated 02-07-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202607020805553138055fourthclassappointment_final.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-06-25 12:13
 - [Transfer/posting order of IAS officers dated 25-06-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202606250449318004639IASorderdated25-06-2026.pdf>)
 
