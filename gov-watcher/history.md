@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-07-06 13:27
+- [Amendment in Rajasthan Agriculture Subordinate Service Rules, 1978](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/20260706045520390973615-2-5-dop-a-2-77-dated06-07-2026-e.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-07-02 16:25
 - [Appointment order of Fourth Class Employee recruitment, 2024 in Government Secretariat dated 02-07-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202607020805553138055fourthclassappointment_final.pdf>)
 
