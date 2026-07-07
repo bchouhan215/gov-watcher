@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-07-07 13:10
+- [Amendment in the Rajasthan Minority Affairs (State and Subordinate) Service Rules, 2017](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202607070324495028267minority2017english.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-07-07 07:52
 - [Suspension order of Shri Balwant Singh Ligree, RAS dated 06-07-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202607071126071772448Suspensionorder.pdf>)
 
