@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-07-07 07:52
+- [Suspension order of Shri Balwant Singh Ligree, RAS dated 06-07-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202607071126071772448Suspensionorder.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-07-06 13:27
 - [Amendment in Rajasthan Agriculture Subordinate Service Rules, 1978](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/20260706045520390973615-2-5-dop-a-2-77-dated06-07-2026-e.pdf>)
 
