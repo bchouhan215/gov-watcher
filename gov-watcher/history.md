@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-07-12 12:33
+- [Cancellation order of RAS officers dated 12-07-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202607120500261242704CancellationorderofRASdated12-07-2026.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-07-07 13:10
 - [Amendment in the Rajasthan Minority Affairs (State and Subordinate) Service Rules, 2017](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202607070324495028267minority2017english.pdf>)
 
