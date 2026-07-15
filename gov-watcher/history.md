@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-07-15 13:13
+- [Circular Regarding Medical Examination of Specially Abled dated 15-07-2026](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202607150611170815656img20260715_18070499.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-07-14 19:02
 - [Transfer/posting order of IPS officers dated 14-07-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202607141140357380455IPSorderdated14-07-2026.pdf>)
 
