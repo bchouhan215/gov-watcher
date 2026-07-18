@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-07-18 11:34
+- [Awaiting posting order of RAS officers dated 18-07-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202607180414083886991RASorderdated18-07-2026.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-07-15 13:13
 - [Circular Regarding Medical Examination of Specially Abled dated 15-07-2026](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202607150611170815656img20260715_18070499.pdf>)
 
