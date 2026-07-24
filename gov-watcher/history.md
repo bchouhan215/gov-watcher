@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-07-24 12:52
+- [Awaiting Posting Order and Additional charge order of IAS officers dated 24-07-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202607240451415150030IASorderdated24-07-2026.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-07-24 09:30
 - [Duty order of RAS officers dated 24-07-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202607240156143201051RASDUTYORDERDATED24-07-2026.pdf>)
 
