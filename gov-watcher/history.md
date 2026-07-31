@@ -1,3 +1,22 @@
+### RajKaj - 2026-07-31 09:31
+- [31.07.2026 - Circular regarding date extension of On-Line Submission of Immovable Property Return for All State Government Employees](<https://rajkaj.rajasthan.gov.in/uploads/202607310223013218956rajkaj_______50_126_1785489573.pdf>)
+
+---
+
+### DOP Rajasthan - 2026-07-31 09:30
+- [Circular regarding date extension of On-Line Submission of Immovable Property Return for All State Government Employees dated 31-07-2026](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202607310223013218956RajKaj%E2%84%A2-50-126.pdf>)
+- [Direction to candidates appearing in Medical Examination for Rajasthan State and Subordinate Services Combined Examination 2024](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202607310148330896647Direction.pdf>)
+- [Time schedule of Medical Examination of probable candidates selected in Rajasthan State and Subordinate Service Examination, 2024 at M.B.S. Govt. Medical College, Kota](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202607311249502339795MaharavBhimSinghKota.pdf>)
+- [Time schedule of Medical Examination of probable candidates selected in Rajasthan State and Subordinate Service Examination, 2024 at P.B.M. Hospital, Bikaner](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202607311248358275782PBMBikaner.pdf>)
+- [Time schedule of Medical Examination of probable candidates selected in Rajasthan State and Subordinate Service Examination, 2024 at J.L.N. Medical College, Ajmer](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202607311247430149666JawaharLalAjmer.pdf>)
+- [Time schedule of Medical Examination of probable candidates selected in Rajasthan State and Subordinate Service Examination, 2024 at R.B.M. Hospital, Bharatpur](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202607311246446398594RBMBharatpur.pdf>)
+- [Time schedule of Medical Examination of probable candidates selected in Rajasthan State and Subordinate Service Examination, 2024 at Mathura Das Mathur Hospital, Jodhpur](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202607311245502490934MathuradasMathurJodhpur.pdf>)
+- [Time schedule of Medical Examination of probable candidates selected in Rajasthan State and Subordinate Service Examination, 2024 Maharana Bhupal Singh Govt. Hospital, Udaipur](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202607311244439264805MaharanabhupalUdaipur.pdf>)
+- [Time schedule of Medical Examination of probable candidates selected in Rajasthan State and Subordinate Service Examination, 2024 at Rajasthan University of Health Sciences (R.U.H.S.), Jaipur](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202607311243097959210RUHSJaipur.pdf>)
+- [Time schedule of Medical Examination of probable candidates selected in Rajasthan State and Subordinate Service Examination, 2024 at SMS Medical College, Jaipur](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202607311241560226001SMSJaipur.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-07-24 12:52
 - [Awaiting Posting Order and Additional charge order of IAS officers dated 24-07-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202607240451415150030IASorderdated24-07-2026.pdf>)
 
