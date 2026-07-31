@@ -1,3 +1,11 @@
+### DOP Rajasthan - 2026-07-31 13:41
+- [Application invited for 3rd Rajasthan State Inter District Civil Service Kabaddi (Male) Tournament 2026-27](<https://dop.rajasthan.gov.in/writereaddata/News/2026073105591858118394-Kabddi_1785485787454.pdf>)
+- [Application invited for 10th Rajasthan State Inter District Civil Service Volleyball (Male) Tournament 2026-27](<https://dop.rajasthan.gov.in/writereaddata/News/2026073105584823582533-Volleyball_1785485889506.pdf>)
+- [Application invited for 11th Rajasthan State Inter District Civil Service Basketball (Male) Tournament 2026-27](<https://dop.rajasthan.gov.in/writereaddata/News/2026073105532397105992-DishanirdeshBasketball_1779278197760-.pdf>)
+- [Application invited for 7th Rajasthan State Inter District Civil Service Tennis Tournament, 9th Rajasthan State Inter District Civil Service Badminton Tournament and 5th Rajasthan State Inter district Civil Service Table Tennis Tournament 2026-27](<https://dop.rajasthan.gov.in/writereaddata/News/2026073105521760903981-BadmintionTTTennis_1785485836752.pdf>)
+
+---
+
 ### RajKaj - 2026-07-31 09:31
 - [31.07.2026 - Circular regarding date extension of On-Line Submission of Immovable Property Return for All State Government Employees](<https://rajkaj.rajasthan.gov.in/uploads/202607310223013218956rajkaj_______50_126_1785489573.pdf>)
 
