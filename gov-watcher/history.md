@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-08-01 15:34
+- [Transfer/posting order of IPS officers dated 01-08-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202608010805526390126IPSorderdated01-08-2026.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-07-31 13:41
 - [Application invited for 3rd Rajasthan State Inter District Civil Service Kabaddi (Male) Tournament 2026-27](<https://dop.rajasthan.gov.in/writereaddata/News/2026073105591858118394-Kabddi_1785485787454.pdf>)
 - [Application invited for 10th Rajasthan State Inter District Civil Service Volleyball (Male) Tournament 2026-27](<https://dop.rajasthan.gov.in/writereaddata/News/2026073105584823582533-Volleyball_1785485889506.pdf>)
