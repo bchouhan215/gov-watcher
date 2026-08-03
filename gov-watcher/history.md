@@ -1,3 +1,10 @@
+### DOP Rajasthan - 2026-08-03 06:51
+- [Application for participation in 13th Rajasthan State Inter Divisional Civil Service Cricket Tournament 2026-27](<https://dop.rajasthan.gov.in/writereaddata/News/202608031208252131029Cricketdivisional.pdf>)
+- [Application for participation in 13th Rajasthan State Inter Divisional Civil Service Volleyball Tournament 2026-27](<https://dop.rajasthan.gov.in/writereaddata/News/202608031207547425157Volleyballdivisional.pdf>)
+- [Application for participation in 13th Rajasthan State Inter Divisional Civil Service Basketball Tournament 2026-27](<https://dop.rajasthan.gov.in/writereaddata/News/202608031207115211882Basketballdivisional.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-08-01 15:34
 - [Transfer/posting order of IPS officers dated 01-08-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202608010805526390126IPSorderdated01-08-2026.pdf>)
 
