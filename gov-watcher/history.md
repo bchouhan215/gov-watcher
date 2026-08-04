@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-08-04 09:07
+- [Awaiting Posting Order of one RAS officer dated 04-08-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202608040147067830069APOorderofRASdated04-08-2026.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-08-03 10:32
 - [Application for participation in 13th Rajasthan State Inter Divisional Civil Service Badminton Tournament 2026-27](<https://dop.rajasthan.gov.in/writereaddata/News/202608030355364229549Badmintiondiv.pdf>)
 - [Application for participation in 13th Rajasthan State Inter Divisional Civil Service Kabaddi Tournament 2026-27](<https://dop.rajasthan.gov.in/writereaddata/News/202608030355029215959Kabddidiv.pdf>)
