@@ -1,3 +1,9 @@
+### DOP Rajasthan - 2026-08-11 13:38
+- [Appointment of Member, Rajasthan Civil Services Appellate Tribunal, Jaipur dated 11-08-2026 -II](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202608110651497348109sig-VirendraBankawatMemberOrder_1786422531098.pdf>)
+- [Appointment of Member, Rajasthan Civil Services Appellate Tribunal, Jaipur dated 11-08-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202608110651235786822sig-AntarSinghNehra_1786422507632.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-08-11 09:41
 - [Transfer/posting order of RAS officers dated 11-08-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202608110305042587644RASorderdated11-08-2026.pdf>)
 
