@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-08-15 09:46
+- [Appointment order of Fourth Class Employee recruitment examination 2024 in Government Secretariat dated 15-08-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202608150252422749966newappointmentorderof133_150826.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-08-13 13:42
 - [Awaiting Posting Order of one RAS officer dated 13-08-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202608130554257192977APOorderofRASdated13-08-2026.pdf>)
 
