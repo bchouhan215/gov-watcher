@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-08-17 09:05
+- [Two year relaxation in experience for DPC year 2026-27](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202608170156535181514scan_scan_20260817144922.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-08-15 09:46
 - [Appointment order of Fourth Class Employee recruitment examination 2024 in Government Secretariat dated 15-08-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202608150252422749966newappointmentorderof133_150826.pdf>)
 
