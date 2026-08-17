@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-08-17 10:53
+- [Two year relaxation in experience for DPC year 2026-27](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202608170329095096074scan_scan_20260817144922.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-08-17 09:05
 - [Two year relaxation in experience for DPC year 2026-27](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202608170156535181514scan_scan_20260817144922.pdf>)
 
