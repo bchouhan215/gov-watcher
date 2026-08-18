@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-08-18 11:02
+- [Regarding document verification of selected candidates of Stenographer and Personal Assistant Grade-II recruitment 2024 in Government Secretariat, Rajasthan, Jaipur](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202608180416067217761dvordersigned.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-08-18 10:44
 - [Amendment in Rajasthan Compassionate Appointment of Dependents of Deceased Government Servants Rules, 1996](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202608180402163458048img20260818_15563513.pdf>)
 
