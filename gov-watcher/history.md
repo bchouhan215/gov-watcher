@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-08-18 10:44
+- [Amendment in Rajasthan Compassionate Appointment of Dependents of Deceased Government Servants Rules, 1996](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202608180402163458048img20260818_15563513.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-08-17 19:05
 - [Transfer/posting order of IAS officers dated 17-08-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202608171158025854131OrderofIASdated17-08-2026-I.pdf>)
 - [Transfer/posting order of RAS officers dated 17-08-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202608181206324072809OrderofRASdated17-08-2026.pdf>)
