@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-08-19 09:46
+- [Additional charge order of the post of Superintendent of Police, Nagaur dated 19-08-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202608190311111540349AdditionalChargeorderofSPNagaur.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-08-19 06:02
 - [Transfer/posting order of IPS officers dated 19-08-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202608191115197926165IPSorderdated19-08-2026.pdf>)
 
