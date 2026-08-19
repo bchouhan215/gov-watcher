@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-08-19 10:51
+- [Transfer/posting order of RAS officers dated 19-08-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202608190412261220494OrderofRASdated19-08-2026.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-08-19 09:46
 - [Additional charge order of the post of Superintendent of Police, Nagaur dated 19-08-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202608190311111540349AdditionalChargeorderofSPNagaur.pdf>)
 
