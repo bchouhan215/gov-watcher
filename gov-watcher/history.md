@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-09-21 19:23
+- [Time schedule of Medical Examination of probable candidates selected in Rajasthan State and Subordinate Service Examination, 2024 at SMS Hospital, Jaipur](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202609210848111959663rajkaj_1790003609009.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-09-17 15:53
 - [Time schedule of Medical Examination of probable candidates selected in Rajasthan State and Subordinate Service Examination, 2024 at SMS Medical College, Jaipur (Second Chance)](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202609170740569790100VigyapatiforMedical-Jaipur(2ndChancefor1absentee)_1789652908159.pdf>)
 
