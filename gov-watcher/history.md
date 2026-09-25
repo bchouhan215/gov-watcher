@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-09-25 14:51
+- [District Training order of 66 RAS officers (2026 Batch) dated 25-09-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202609250437263606042RASdistricttrainingorderdated25-09-26.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-09-21 19:23
 - [Time schedule of Medical Examination of probable candidates selected in Rajasthan State and Subordinate Service Examination, 2024 at SMS Hospital, Jaipur](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202609210848111959663rajkaj_1790003609009.pdf>)
 
