@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-09-29 06:56
+- [Amendments in Rajasthan Appointment of Dependents of Deceased (Martyred) Armed Forces Personnel Rules, 2022](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202609280420168030394English_260928_165332.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-09-25 14:51
 - [District Training order of 66 RAS officers (2026 Batch) dated 25-09-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202609250437263606042RASdistricttrainingorderdated25-09-26.pdf>)
 
