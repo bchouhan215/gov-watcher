@@ -1,3 +1,10 @@
+### DOP Rajasthan - 2026-09-29 13:39
+- [Amendment in Rajasthan Integrated Child Development (State and Subordinate) Service Rules, 1998](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202609290425242412131icdsenglish.pdf>)
+- [Amendment in Rajasthan Forest Subordinate Service Rules, 2015](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202609290424420980453forestenglish.pdf>)
+- [Amendments in Rajasthan Tribal Area Development State and Subordinate Service Rules, 2001](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202609290401062217960img20260929_15521839.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-09-29 06:56
 - [Amendments in Rajasthan Appointment of Dependents of Deceased (Martyred) Armed Forces Personnel Rules, 2022](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202609280420168030394English_260928_165332.pdf>)
 
