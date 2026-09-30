@@ -1,3 +1,10 @@
+### DOP Rajasthan - 2026-09-30 14:05
+- [Appointment order of 59 Rajasthan Administrative Service Officers dated 30-09-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202609300704443645588Appointmentorderof59RASdated30-09-2026.pdf>)
+- [Additional charge order of IAS officers dated 30-09-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202609300426241406933addlchargeorder.pdf>)
+- [Circular regarding celebration of Rashtrapita Mahatma Gandhi Jayanti on 02.10.2026 in Government Secretariat, Rajasthan, Jaipur.](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202609300332414128764Circular.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-09-29 13:39
 - [Amendment in Rajasthan Integrated Child Development (State and Subordinate) Service Rules, 1998](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202609290425242412131icdsenglish.pdf>)
 - [Amendment in Rajasthan Forest Subordinate Service Rules, 2015](<https://dop.rajasthan.gov.in/writereaddata/modulCategory/202609290424420980453forestenglish.pdf>)
