@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-10-03 10:29
+- [Transfer/posting order of RAS officers dated 03-10-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202610030150110665700OrderofRASdated03-10-2026.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-09-30 14:05
 - [Appointment order of 59 Rajasthan Administrative Service Officers dated 30-09-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202609300704443645588Appointmentorderof59RASdated30-09-2026.pdf>)
 - [Additional charge order of IAS officers dated 30-09-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202609300426241406933addlchargeorder.pdf>)
