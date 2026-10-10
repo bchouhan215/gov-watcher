@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-10-10 11:35
+- [Participation in the 3rd Edition of the Kashmir Marathon in Srinagar, Jammu & Kashmir on October 25, 2026](<https://dop.rajasthan.gov.in/writereaddata/News/202610100120074313076sig-MerathanJammu.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-10-03 14:48
 - [Transfer/posting order of IPS officers dated 03-10-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202610030413145201490OrderofIPSdated03-10-2026.pdf>)
 
