@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-10-12 19:14
+- [Enhancement of Investment Choice Options under NPS and UPS for AIS Officers.](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202610120606455218745EnhancementofInvestmentChoiceOptionsunderNPSandUPS.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-10-10 11:35
 - [Participation in the 3rd Edition of the Kashmir Marathon in Srinagar, Jammu & Kashmir on October 25, 2026](<https://dop.rajasthan.gov.in/writereaddata/News/202610100120074313076sig-MerathanJammu.pdf>)
 
