@@ -1,3 +1,8 @@
+### DOP Rajasthan - 2026-10-15 14:15
+- [Rescheduling of dates for the district and division level Civil Services Tournaments 2026-27 due to Panchayat Election](<https://dop.rajasthan.gov.in/writereaddata/News/202610150500076584745DistrictandDivisionTournamentChangeDate.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-10-12 19:14
 - [Enhancement of Investment Choice Options under NPS and UPS for AIS Officers.](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202610120606455218745EnhancementofInvestmentChoiceOptionsunderNPSandUPS.pdf>)
 
