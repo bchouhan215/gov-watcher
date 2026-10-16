@@ -1,3 +1,9 @@
+### DOP Rajasthan - 2026-10-16 12:35
+- [Transfer/posting order of RAS officers dated 16-10-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202610160327536095436RASorderdated16-08-2026.pdf>)
+- [Transfer/posting order of one IAS officer dated 16-10-2026](<https://dop.rajasthan.gov.in/writereaddata/orderDetail/202610160326568880960IASorderdated16-08-2026.pdf>)
+
+---
+
 ### DOP Rajasthan - 2026-10-15 14:15
 - [Rescheduling of dates for the district and division level Civil Services Tournaments 2026-27 due to Panchayat Election](<https://dop.rajasthan.gov.in/writereaddata/News/202610150500076584745DistrictandDivisionTournamentChangeDate.pdf>)
 
